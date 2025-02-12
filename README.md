@@ -1,2 +1,4 @@
-## Assignment 1 - Fundamentals of Excels and Table Creation
+## Assignment 1: Fundamentals of Excels and Table Creation
 This assignment contains a well-organized table with 20 rows of product data, including columns for Product Name, Brand Name, Price, and Category. The table is formatted using different table designs to enhance readability and presentation. It provides a structured way to manage and analyze product details efficiently.
+## Assignment 2: Excel formulas and conditional functions
+This assignment contains calculations and analysis performed on the previously created product dataset. It includes SUM, COUNT, and AVERAGE functions to determine total price, product count, and average price. MIN and MAX functions identify the lowest and highest product prices. SUMIF and COUNTIF formulas analyze category-based total prices and count products above a certain price. Text functions (LEFT, RIGHT, MID) extract specific parts of product details, while an IF statement categorizes products based on pricing thresholds. These calculations enhance data interpretation and provide meaningful insights into product trends.
